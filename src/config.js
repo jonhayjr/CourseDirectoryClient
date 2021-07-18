@@ -1,6 +1,6 @@
   const Config = {
     //Store base url for api
-    apiBaseUrl: 'http://localhost:5000/api'
+    apiBaseUrl: 'https://rest-api-school-directory.herokuapp.com/api'
  }
 
  export default Config;
